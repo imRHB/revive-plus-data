@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "name":"Digital Thermometer",
+        "price":"$235.00",
+        "image":"https://i.ibb.co/YWBZDxw/digital-thermometer.png"
+    },
+    {
+        "id":"2",
+        "name":"Aqualung Smart Snorkel",
+        "price":"$210.00",
+        "image":"https://i.ibb.co/p1FYpX2/aqualung-smart-snorkel.png"
+    },
+    {
+        "id":"3",
+        "name":"Cleaning Scissor",
+        "price":"$130.00",
+        "image":"https://i.ibb.co/xqBNdpY/cleaning-scissor.png"
+    },
+    {
+        "id":"4",
+        "name":"Celsius Meter",
+        "price":"$130.00",
+        "image":"https://i.ibb.co/c39T8hK/celsius-meter.png"
+    },
+    {
+        "id":"5",
+        "name":"Digital Infrared Thermometer",
+        "price":"$130.00",
+        "image":"https://i.ibb.co/5rbHVSN/digital-infrared-thermometer.png"
+    },
+    {
+        "id":"6",
+        "name":"Digital Pressure Machine",
+        "price":"$130.00",
+        "image":"https://i.ibb.co/1bTYfm2/digital-pressure-machine.png"
+    },
+    {
+        "id":"7",
+        "name":"Digital Basal Thermometer",
+        "price":"$112.00",
+        "image":"https://i.ibb.co/vBCNt1Z/digital-basal-thermometer.png"
+    },
+    {
+        "id":"8",
+        "name":"Swiss Dental",
+        "price":"$245.00",
+        "image":"https://i.ibb.co/QrGYM5V/swiss-dental.png"
+    }
+]
