@@ -1,0 +1,50 @@
+[
+    {
+        "id":"laboratory",
+        "name":"Laboratory",
+        "image":"https://i.ibb.co/jgZMtRM/laboratory.png",
+        "description":"A medical laboratory scientist (MLS) or clinical laboratory scientist (CLS) or medical technologist (MT) performs diagnostic testing of blood and body fluids in clinical laboratories. The scope of a medical laboratory scientist's work begins with the receipt of patient or client specimens."
+    },
+    {
+        "id":"body-lift",
+        "name":"Body Lift",
+        "image":"https://i.ibb.co/YczSnty/body-lift.png",
+        "description":"A body lift improves the shape and tone of the underlying tissue that supports skin and fat. Excess sagging skin and fat are removed and the procedure"
+    },
+    {
+        "id":"pediatrician",
+        "name":"Pediatrician",
+        "image":"https://i.ibb.co/cc9mTxW/pediatrician.png",
+        "description":"A pediatrician is a medical doctor who manages the physical, behavioral, and mental care for children from birth until age 18. A pediatrician is trained to diagnose and treat a broad range of childhood illnesses, from minor health problems to serious diseases."
+    },
+    {
+        "id":"laryngologist",
+        "name":"Laryngologist",
+        "image":"https://i.ibb.co/LxJbCXB/laryngologist.png",
+        "description":"A laryngologist is a surgeon who treats disorders of voice, breathing and swallowing. To become a laryngologist, a physician first completes a five year residency in Otolaryngology-Head and Neck Surgery. This is then followed by a one-year fellowship in Laryngology."
+    },
+    {
+        "id":"cardiology",
+        "name":"Cardiology",
+        "image":"https://i.ibb.co/sF400NM/cardiology.png",
+        "description":"Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. ... A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system."
+    },
+    {
+        "id":"surgery",
+        "name":"Surgery",
+        "image":"https://i.ibb.co/rsspKN1/surgery.png",
+        "description":"Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas."
+    },
+    {
+        "id":"dental",
+        "name":"Dental",
+        "image":"https://i.ibb.co/RvkrPjx/dental.png",
+        "description":"The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist."
+    },
+    {
+        "id":"rehabilitation",
+        "name":"Rehabilitation",
+        "image":"https://i.ibb.co/2Phw7M8/rehabilitation.png",
+        "description":"ehabilitation of sensory and cognitive function typically involves methods for retraining neural pathways or training new neural pathways to regain or improve neurocognitive functioning that have been diminished by disease or trauma. The main objective outcome for rehabilitation is to assist in regaining physical abilities and improving performance."
+    }
+]
